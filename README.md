@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Kamogelo-cyber-ops/Kamogelo-cyber-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kamogelo Komane 👋
 
-Here are some ideas to get you started:
+🎓 BSc IT Student @ NWU | Aspiring Software Engineer  
+💻 Full-Stack Developer in training | Focused on C#, Python, Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** C#, Java, Python, JavaScript, SQL
+- **Tools:** Angular, .NET, Git, Firebase, VS Code, Godot
+- **Learning:** AI, Cloud Computing, DevOps
+
+## 📫 Reach Me
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [Email](mailto:your@email.com)
+
+## ⚡ Fun Facts
+- Love building projects during hackathons  
+- Gamer, tech enthusiast & lifelong learner 🚀
