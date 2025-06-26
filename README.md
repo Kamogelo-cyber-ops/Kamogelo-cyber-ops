@@ -10,8 +10,8 @@
 - **Learning:** AI, Cloud Computing, DevOps
 
 ## 📫 Reach Me
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Email](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/kamogelo-komane-471172364/)  
+- [Email](mailto:kkomane669@gmail.com)
 
 ## ⚡ Fun Facts
 - Love building projects during hackathons  
